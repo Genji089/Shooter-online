@@ -1,0 +1,2455 @@
+fileFormatVersion: 2
+guid: 40c318d9bdd8fab4789de2cde312d92f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3898649169108649191
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_0"
+  - first:
+      213: -8756600912305878055
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_1"
+  - first:
+      213: 5056148426882780717
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_2"
+  - first:
+      213: 6113210561223878164
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_3"
+  - first:
+      213: -5964423501331352217
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_4"
+  - first:
+      213: 3046224899150895497
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_5"
+  - first:
+      213: 3394943502936795307
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_6"
+  - first:
+      213: 7273144610436872094
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_7"
+  - first:
+      213: 3416946937890260347
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_8"
+  - first:
+      213: 214940215722367954
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_9"
+  - first:
+      213: 4643479208690075576
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_10"
+  - first:
+      213: 6064420081999396716
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_11"
+  - first:
+      213: 933180518952094382
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_12"
+  - first:
+      213: 8964636545356807505
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_13"
+  - first:
+      213: 6898116439064509377
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_14"
+  - first:
+      213: -4699358633832642320
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_15"
+  - first:
+      213: 5849236012838510126
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_16"
+  - first:
+      213: 7821991596184392520
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_17"
+  - first:
+      213: 8193471078459230579
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_18"
+  - first:
+      213: -185621256087410783
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_19"
+  - first:
+      213: -8769671549754933814
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_20"
+  - first:
+      213: -4199114217910484311
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_21"
+  - first:
+      213: -4605071671929905860
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_22"
+  - first:
+      213: -5129379819584225937
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_23"
+  - first:
+      213: -4207069240334243020
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_24"
+  - first:
+      213: -6533174054288918581
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_25"
+  - first:
+      213: 2086966867395745443
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_26"
+  - first:
+      213: -7831877699470511629
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_27"
+  - first:
+      213: -2057765839274224679
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_28"
+  - first:
+      213: -8193930296574110389
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_29"
+  - first:
+      213: -5856127936270898377
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_30"
+  - first:
+      213: -5222029642311788420
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_31"
+  - first:
+      213: -5290854775874400409
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_32"
+  - first:
+      213: 6181298322193456656
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_33"
+  - first:
+      213: 697888172462759702
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_34"
+  - first:
+      213: -7342926376343977835
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_35"
+  - first:
+      213: -2779728991136138508
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_36"
+  - first:
+      213: -2290177236452788419
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_37"
+  - first:
+      213: 7643979371377360950
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_38"
+  - first:
+      213: -7895079981457824822
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_39"
+  - first:
+      213: 3671528489797837291
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_40"
+  - first:
+      213: -5388697073769836982
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_41"
+  - first:
+      213: -1685856947237730974
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_42"
+  - first:
+      213: -1758004928191944241
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_43"
+  - first:
+      213: 8269597419395455200
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_44"
+  - first:
+      213: 3290372946032936886
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_45"
+  - first:
+      213: 1330001785236864069
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_46"
+  - first:
+      213: -3647306793010292908
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_47"
+  - first:
+      213: 3636584873122617834
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_48"
+  - first:
+      213: 3643650768248640959
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_49"
+  - first:
+      213: 7669899912521872494
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_50"
+  - first:
+      213: 6519472499107627085
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_51"
+  - first:
+      213: -7979116601009642877
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_52"
+  - first:
+      213: -5707119901104101932
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_53"
+  - first:
+      213: -527443661501421701
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_54"
+  - first:
+      213: -3114580494998214407
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_55"
+  - first:
+      213: -4920269773343168459
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_56"
+  - first:
+      213: -4880642246471813948
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_57"
+  - first:
+      213: -345833754160613100
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_58"
+  - first:
+      213: 4557743991255507698
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_59"
+  - first:
+      213: 6052409516892931322
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_60"
+  - first:
+      213: 2313591894589975951
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_61"
+  - first:
+      213: 1611687174458903842
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_62"
+  - first:
+      213: 8465630120271274370
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_63"
+  - first:
+      213: 2322181391420761327
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_64"
+  - first:
+      213: 8873583336712410907
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_65"
+  - first:
+      213: 7233527614303376977
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_66"
+  - first:
+      213: -3154126764586283753
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_67"
+  - first:
+      213: 1549604194693228700
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_68"
+  - first:
+      213: 9063374094659279506
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_69"
+  - first:
+      213: -6464781804610650138
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_70"
+  - first:
+      213: 5659579616641764876
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_71"
+  - first:
+      213: 5864606946112200049
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_72"
+  - first:
+      213: 2452312948030340655
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_73"
+  - first:
+      213: 750840606198887605
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_74"
+  - first:
+      213: -9061999472432117290
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_76"
+  - first:
+      213: -9061030290012116951
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_77"
+  - first:
+      213: -6065477611314014468
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_78"
+  - first:
+      213: -1653932651792133653
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_79"
+  - first:
+      213: 892607646662942255
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_80"
+  - first:
+      213: -6672735847149454125
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_81"
+  - first:
+      213: -5961500530295033643
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_82"
+  - first:
+      213: 523782687152233221
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_83"
+  - first:
+      213: -540081489707594676
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_84"
+  - first:
+      213: 6800031439311660816
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_85"
+  - first:
+      213: -8258452060120219752
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_86"
+  - first:
+      213: 7764671740077840947
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_87"
+  - first:
+      213: 9198396170879190042
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_88"
+  - first:
+      213: 5434888426716790095
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_89"
+  - first:
+      213: 7692845071471655081
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_90"
+  - first:
+      213: 9028226001802218493
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_91"
+  - first:
+      213: -3015183479853768597
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_92"
+  - first:
+      213: 2373591810377936714
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_93"
+  - first:
+      213: 8582932370949065588
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_94"
+  - first:
+      213: 2482363663024672941
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_95"
+  - first:
+      213: 3993065042302562836
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_96"
+  - first:
+      213: -6356639461639863151
+    second: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_97"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ab7464af1c0449a72bc2d3dbf3270
+      internalID: -3898649169108649191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d166f324f84c6b445833a5662e0c5d27
+      internalID: -8756600912305878055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee28c499989bb409517d57644e6c78
+      internalID: 5056148426882780717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0205e1fe853b0e944943b40293572c62
+      internalID: 6113210561223878164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eafeb17dc31fbb46ab204b2a204e4c0
+      internalID: -5964423501331352217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36c80b3ab4e60a409f1c1ec0f17d40e
+      internalID: 3046224899150895497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856dd19ad3c59ef4e8a9dcc931df81bc
+      internalID: 3394943502936795307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43df65fd70aa192469b8eb2f2bc1e484
+      internalID: 7273144610436872094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666b709651ef50d45b70f21a68a6aebe
+      internalID: 3416946937890260347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9fcf05706a9a048b4c48fded207515
+      internalID: 214940215722367954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e971b4c6437cf44186e0237cffd94ff
+      internalID: 4643479208690075576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804cd5e11c88e8544b3b4008ae4ffbb5
+      internalID: 6064420081999396716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122023df3040e7a439b98b1263d36301
+      internalID: 933180518952094382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1934d7724babe094ca3c61ae3f247f85
+      internalID: 8964636545356807505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed9761bf50941d469b013897d4a679d
+      internalID: 6898116439064509377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ca873765f0244eb358fda221dba04
+      internalID: -4699358633832642320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f9ca8d97656e741be4f9a3ae37340b
+      internalID: 5849236012838510126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d9c3097eb12cd4b9fb1f6274a3a68b
+      internalID: 7821991596184392520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a2862377ddee84eacb1865ad133c96
+      internalID: 8193471078459230579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c810a21c26ecd4da2c32f97ccb6525
+      internalID: -185621256087410783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeebc6c5534a2f347846eb59f7b738e5
+      internalID: -8769671549754933814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03d5ba00f4989b4088f7cad053aedfe
+      internalID: -4199114217910484311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3571659d2a92ca47916ba64ef6c3442
+      internalID: -4605071671929905860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6d6860ac8a39f4299639943ba1ddfb
+      internalID: -5129379819584225937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f020b5a2366f3384a908250dbfac2124
+      internalID: -4207069240334243020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea108927322df7c4aa397e54f4bcd51e
+      internalID: -6533174054288918581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120ef1a308b670240a28c8fb57faeb46
+      internalID: 2086966867395745443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6501e653f27a7b41b8a1bce26088131
+      internalID: -7831877699470511629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4381cee0e2826f44b310ab158efa5cb
+      internalID: -2057765839274224679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc42738d50aa4143baf8c8e66f8a75c
+      internalID: -8193930296574110389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a08320732baa144acb393a45ab6232
+      internalID: -5856127936270898377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a32899bbd7364d86c175e9cd2c49c
+      internalID: -5222029642311788420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2593044ac0a4f73409b88d361e157f32
+      internalID: -5290854775874400409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fddcbc95aaf51488ee2a52e7cc54ce
+      internalID: 6181298322193456656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0b0476e147998478c802771ebf4ecf
+      internalID: 697888172462759702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b6262f9c8f21140b5bda3b4a745d26
+      internalID: -7342926376343977835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_36"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0afabe9af1ca6f4cb57cd70278d5703
+      internalID: -2779728991136138508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_37"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdcaaf5d1645034d9b0b5e04550b71d
+      internalID: -2290177236452788419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_38"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b6f212b852f844d9c794c6cde311b4
+      internalID: 7643979371377360950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_39"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4461f1c2a59939441986f5285495599f
+      internalID: -7895079981457824822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_40"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152181b10c3d1fd4a8f5ec7e16c2c114
+      internalID: 3671528489797837291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_41"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73367edb4597f9e41ac289b2aa5c542a
+      internalID: -5388697073769836982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_42"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2d3e62282ec804894f8f954dc2420b
+      internalID: -1685856947237730974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_43"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861d8cdede66f9a40a4a9a42b07faed6
+      internalID: -1758004928191944241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_44"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edea6d4638fc7640b523731592bbac7
+      internalID: 8269597419395455200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_45"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cff330e39b2cc498826d13ba5933f4
+      internalID: 3290372946032936886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_46"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc9b4b74bfd7f44aaccc5422de255be
+      internalID: 1330001785236864069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_47"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d37821f24858a43b25330b13778c1d
+      internalID: -3647306793010292908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_48"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9400becc5960a249a8947b4585a25e1
+      internalID: 3636584873122617834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_49"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22820b05e1070041a6a9a72e32a4c43
+      internalID: 3643650768248640959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_50"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5fa91e6f32574aba74a223f41018c
+      internalID: 7669899912521872494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_51"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4eb81ba9b5f12488c86271be1525f9
+      internalID: 6519472499107627085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_52"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb8ee20a5b2e4745bf8882c3e82732a
+      internalID: -7979116601009642877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_53"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40114374b5e0494aa1c0489de0ce612
+      internalID: -5707119901104101932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_54"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b69a0e18bc7d64ea6306091011c9b6
+      internalID: -527443661501421701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_55"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3e70a240dbf5141958b69bec0c51ce
+      internalID: -3114580494998214407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_56"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c00a83f60c93e4295e8e2bce82e1a7
+      internalID: -4920269773343168459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_57"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cbac94cb50b214593c5716981d681a
+      internalID: -4880642246471813948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_58"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc9b4f76062bb04c82381b5b63d3689
+      internalID: -345833754160613100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_59"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4e8d0f8b836a5449ca9b4b47766015
+      internalID: 4557743991255507698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_60"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902b2b7164029fd47aa203af5e3fd010
+      internalID: 6052409516892931322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_61"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7478c775334c7b94f988cbc56336013a
+      internalID: 2313591894589975951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_62"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9350a68ce5dd586468e6b703b047eccf
+      internalID: 1611687174458903842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_63"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 59
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6b28edccd755d47984bac2148a8f49
+      internalID: 8465630120271274370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_64"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 46
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e064367816782604eae8636e7ba8385e
+      internalID: 2322181391420761327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_65"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571250928bce0b24bb28cba62da3c6e3
+      internalID: 8873583336712410907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_66"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c9c7a858d9cac4fa0f80ff5369344c
+      internalID: 7233527614303376977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_67"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece9fa15b8094240a118633e54fc4ef
+      internalID: -3154126764586283753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_68"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1927da48c29eb4c960c606c9ec1307
+      internalID: 1549604194693228700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_69"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d05760ba679054ebd1835508e9995e
+      internalID: 9063374094659279506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_70"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72579b9593497ea469671d38084d4b32
+      internalID: -6464781804610650138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_71"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e023e508e998264a8bd8ea7d2da285a
+      internalID: 5659579616641764876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_72"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da382183e58d4c41bb6f98fd38899b9
+      internalID: 5864606946112200049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_73"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 39
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ecf82d191a75b4693b2833ea855e0c
+      internalID: 2452312948030340655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_74"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 39
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87714540f38d84f448c824b86d2e5b26
+      internalID: 750840606198887605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_76"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84da2c88016fd5d4cb60111e3bd0732e
+      internalID: -9061999472432117290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_77"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919099cfb6b849a4f9272d6dc3517a52
+      internalID: -9061030290012116951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_78"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f20da8183460be45941c259f968ca79
+      internalID: -6065477611314014468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_79"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23f2dcedb11f6346ac0ab8a86fc2738
+      internalID: -1653932651792133653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_80"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ce602aa19ff4745b19fe85aee2cac4
+      internalID: 892607646662942255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_81"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bfe5b0f38de8545b0626376e29e8c9
+      internalID: -6672735847149454125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_82"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837bc37f312bd547b68992fe71a779a
+      internalID: -5961500530295033643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_83"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36d5ba9ebeeee74fa125183b00d03ce
+      internalID: 523782687152233221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_84"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d77ee45858a91441b0424f3b5d100a6
+      internalID: -540081489707594676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_85"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd321c3238236247b4f7929f3ff5042
+      internalID: 6800031439311660816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_86"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d490f97cbfd242a560dff9406174e
+      internalID: -8258452060120219752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_87"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b061c95dea5b5240bb13d27753b4639
+      internalID: 7764671740077840947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_88"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4974c3af11b2aa54b9bebaf7d9f13cc6
+      internalID: 9198396170879190042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_89"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcdcba7ab076c64aa037d3f680753cd
+      internalID: 5434888426716790095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_90"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc74015dc6e76641bcce534fbe5bbf8
+      internalID: 7692845071471655081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_91"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4e4f3dd9311d14baab6fe6f7dcf0a2
+      internalID: 9028226001802218493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_92"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0939d63ea695564fb61852a6917907c
+      internalID: -3015183479853768597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_93"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5809005a8b4ea4db9194bbc0468c92
+      internalID: 2373591810377936714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_94"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26543ca6f7bbbe48b01de84f2f2d749
+      internalID: 8582932370949065588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_95"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aaac3bec5318d41a67fdcaf4ec0d18
+      internalID: 2482363663024672941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_96"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e896e844d56284f90a871264ba6a90
+      internalID: 3993065042302562836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pitfall Glacier-\u74E6\u7247(Tiles)_\u7231\u7ED9\u7F51_aigei_com_97"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fc3dac04ebc954087d06f3612feeb8
+      internalID: -6356639461639863151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
